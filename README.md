@@ -131,7 +131,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-<img width="942" height="1041" alt="Screenshot 2025-09-23 234734" src="https://github.com/user-attachments/assets/f7bd3361-f830-45c7-99c2-03bd86cdc1ce" />
+
 
 
 ## RESULT
